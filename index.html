@@ -238,6 +238,111 @@
             
               
                 
+                <a class="post-title-link" href="/2016/07/16/Hexo框架下给博客插入本地图片/" itemprop="url">
+                  Hexo框架下给博客插入本地图片
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            <span class="post-meta-item-icon">
+              <i class="fa fa-calendar-o"></i>
+            </span>
+            <span class="post-meta-item-text">Posted on</span>
+            <time itemprop="dateCreated" datetime="2016-07-16T23:11:03+08:00" content="2016-07-16">
+              2016-07-16
+            </time>
+          </span>
+
+          
+
+          
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2016/07/16/Hexo框架下给博客插入本地图片/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2016/07/16/Hexo框架下给博客插入本地图片/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+
+          
+          
+
+          
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <p>今天想在博客里面插入图片。试了在博文目录/hexo/source/_posts下面建立images文件夹放图，发现deploy后无法加载（本地的markdown编辑器可以成功预览）。上网查了一下，hexo对图片有隐含的默认路径。</p>
+<h3 id="hexo中图片路径"><a href="#hexo中图片路径" class="headerlink" title="hexo中图片路径"></a>hexo中图片路径</h3><p>要加入图片，应该在source下建立一个与博文同级别的文件夹 images,将图片放入。路片路径形如：<br><code>/hexo/source/images/myImg.png</code></p>
+<p>在博客中插入，要使用<strong>相对路径</strong>，应写为 <code>../../images/myImg.png</code><br>（注：该相对路径会使markdown编辑器中无法预览）</p>
+<h3 id="markdown的图片插入语法"><a href="#markdown的图片插入语法" class="headerlink" title="markdown的图片插入语法"></a>markdown的图片插入语法</h3><p>markdown中插入图片语法如下：</p>
+<p><code>![鼠标悬停或无法加载时显示的图片注释](../../images/myImag.png “图片标题”)</code></p>
+
+          
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
                 <a class="post-title-link" href="/2016/07/16/2016年07月16日/" itemprop="url">
                   2016年07月16日
                 </a>
@@ -257,6 +362,25 @@
             </time>
           </span>
 
+          
+            <span class="post-category" >
+              &nbsp; | &nbsp;
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+              
+                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+                  <a href="/categories/琐碎式/" itemprop="url" rel="index">
+                    <span itemprop="name">琐碎式</span>
+                  </a>
+                </span>
+
+                
+                
+
+              
+            </span>
           
 
           
@@ -472,7 +596,7 @@
               
                 
                 <a class="post-title-link" href="/2016/07/15/生活大爆炸/" itemprop="url">
-                  生活大爆炸Season 8 -- TBC
+                  生活大爆炸Season 8 -- 未完成
                 </a>
               
             
@@ -940,7 +1064,7 @@
         <nav class="site-state motion-element">
           <div class="site-state-item site-state-posts">
             <a href="/">
-              <span class="site-state-item-count">6</span>
+              <span class="site-state-item-count">7</span>
               <span class="site-state-item-name">posts</span>
             </a>
           </div>
