@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title><![CDATA[想入surface]]></title>
+      <url>http://shirleychen.net/2016/08/24/%E6%83%B3%E5%85%A5surface/</url>
+      <content type="html"><![CDATA[<p>想弄个手写好一点、能看PDF记笔记、对OneNote支持好的板儿。本来比较淡漠，今天看到surface pro 4的教育折扣有300刀！i5, 4G RAM, 128G，打完折700刀。甚是心动。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[JetBrains一生推（附educational license链接）]]></title>
+      <url>http://shirleychen.net/2016/08/24/JetBrains%E4%B8%80%E7%94%9F%E6%8E%A8/</url>
+      <content type="html"><![CDATA[<p>我刚从C#转移到JAVA时，下载了一个据说应用最广的开源IDE——eclipse。这段经历简直是一个噩梦。当时我还是一个JAVA新手，但是也不算一个新程序员，我原以为个别语法查查就能上手，没想到一天在IDE上就要懵逼20回。Eclipse有一套<strong>极为糟糕</strong> 的UI逻辑（注意，是<strong>极为</strong>）。例如，无论你在什么地方点击右键，不管是项目、子项目、代码文件、资源文件，右键菜单基本都一样，都是列满整个屏幕还不够的密密麻麻一大坨。为什么我会右键单个代码文件来部署项目环境设置依赖，对整个项目Run As，项目级重构，我真的搞不懂。图标混乱、识别度低；项目的新建和导出也都非常麻烦；debug功能很弱很不方便。作为一个新手，当时代码上没什么困难，我却被乱成一团的IDE折磨得心力交瘁，几乎每个操作都要百度一下，在密密麻麻的无关项中用放大镜去找寻。这实在不是一个IDE的目的。<a id="more"></a></p>
+<p>后来又（随着项目组的不同）转移了好几个阵地。MyEclipse作为一个商业软件，缺点竟然一脉相承。NetBeans无功无过。试了又试，众多IDE中除了Visual Studio，我只服JetBrains一家。</p>
+<p>JetBrains旗下的IDE很多，覆盖方方面面。最有名的应该是JAVA的IntelliJ和python的PyCharm。用一次就知道是我想要的！！！实在、实在、太好用了，不是多一两个功能的问题。设计上的人性化体现在每一个微小的细节，功能上基本集成当下最强大的技术。以IntelliJ为例，它静态分析与reliable refactor是众人中最强的。此处应有1000字详述，然而笔者写了几段发现自己编译原理不过关，讲不清楚……Whatever，推荐大家亲自尝试。</p>
+<p>JetBrains非常良心。他们家除了收费的professional/ultimate版，基本都有免费的community版，我在发现educational license前就用community版本。说到educational license，JetBrains有我见过最给力的教育优惠政策！全系列产品，有.edu邮箱就免费！不是精简版，不是打折，而是最高级的收费版本全部免费。而且他们的教育授权甚至允许你期间内无限制更新到最新版本。</p>
+<p>获取链接：<a href="https://www.jetbrains.com/student/" target="_blank" rel="external">https://www.jetbrains.com/student/</a></p>
+<p>今天重归PyCharm的怀抱，心情十分激动。故作此安利。望吃得开心。</p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[升级完毕！*^v^*]]></title>
       <url>http://shirleychen.net/2016/08/23/%E6%9B%B4%E6%96%B0%E5%AE%8C%E6%AF%95%EF%BC%81%E5%92%A9%E5%93%88%E5%93%88%E5%93%88/</url>
       <content type="html"><![CDATA[<p>昨天下午吃完饭，上街换了硬盘。从此以后本宝宝有256G的SSD！！！！和别人比好像很落伍！！！但本宝宝实在太开心了！！！！<br>长期以来过着可用硬盘空间不到10G的生活！！！现在联想的恢复盘也没有了，剩余空间200多G好开心！！！立刻就装了20个G的模拟人生！！MATLAB、VS不用讲！！！JetBrains全系列装起来！！！I’m so happy！！！<br><a id="more"></a></p>
